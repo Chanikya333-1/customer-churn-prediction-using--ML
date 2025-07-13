@@ -44,13 +44,6 @@ The project uses the **Telco Customer Churn dataset** (`Telco-Customer-Churn.csv
 
 ---
 
-## ▶️ How to Run
-
-1️⃣ Clone this repository:
-```bash
-git clone <repository-url>
----
-
 ## 👤 Author
 
 **Chanikya Kothi** — Data Science & Deep Learning Enthusiast
