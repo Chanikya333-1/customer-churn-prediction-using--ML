@@ -16,7 +16,7 @@ The goal is to apply machine learning techniques to understand key drivers of ch
 
 ## 📂 Dataset
 
-The project uses the **Telco Customer Churn dataset** (`WA_Fn-UseC_-Telco-Customer-Churn.csv`), which includes:
+The project uses the **Telco Customer Churn dataset** (`Telco-Customer-Churn.csv`), which includes:
 - Demographics
 - Account info
 - Churn status
