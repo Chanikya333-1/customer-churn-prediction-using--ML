@@ -1,6 +1,6 @@
 # Customer Churn Prediction using Machine Learning
 
-This project, developed by **Chanikya Kothi**, focuses on predicting customer churn using a real-world Telco customer dataset. The goal is to apply machine learning techniques to understand key drivers of churn and help businesses improve customer retention strategies.
+This project, focuses on predicting customer churn using a real-world Telco customer dataset. The goal is to apply machine learning techniques to understand key drivers of churn and help businesses improve customer retention strategies.
 
 ## Overview
 
@@ -35,3 +35,5 @@ The analysis is based on the **Telco Customer Churn** dataset (`WA_Fn-UseC_-Telc
 1. Clone this repository:
    ```bash
    git clone <repository-url>
+##Author
+Chanikya Kothi
